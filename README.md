@@ -1,0 +1,6 @@
+# LabView_Serial
+LabView_Serial 实现串口收发，串口
+LabView_Serial
+LabView_Serial 实现串口收发，串口LabView_Serial
+LabView_Serial 实现串口收发，串口LabView_Serial
+LabView_Serial 实现串口收发，串口
